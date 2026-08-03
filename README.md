@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Muhamed Raafat
 
-<!--
-**mhmdrafat/mhmdrafat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Java Backend Engineer
 
-Here are some ideas to get you started:
+3+ years building enterprise backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Java
+
+Spring Boot
+
+Kafka
+
+Redis
+
+Docker
+
+Kubernetes
+
+Oracle
+
+PostgreSQL
+
+MongoDB
+
+Azure DevOps
+
+## Current Focus
+
+System Design
+
+Distributed Systems
+
+AWS
+
+Open Source
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/muhamed-raafat-b4111620b/)
+
+muhamedraafat11@gmail.com
